@@ -47,7 +47,7 @@ If you haven't already, create an account on Github, and brush up on your skills
   </p>
 
 
-Create a new forum post in the forum channel ##open-source-sep with the title as - `challenger-<yourname>-<DiscordID>`
+Create a new forum post in the forum channel ##open-source-sep with the title as - `challenger-<yourname>-<DiscordUsername>`
 
 
 
@@ -56,7 +56,7 @@ Create a new forum post in the forum channel ##open-source-sep with the title as
   </p>
 
 
-For example, if your name is John Doe and your Discord ID is `john#1234`, your post title should be `challenger-john-doe-john#1234`
+For example, if your name is John Doe and your Discord Username is `john#1234`, your post title should be `challenger-john-doe-john#1234`
 
 You can drop a message like `I accept the challenge`. 
 
