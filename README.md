@@ -41,20 +41,20 @@ If you haven't already, create an account on Github, and brush up on your skills
 ### Step 3
 
 
-<a href="https://discord.com/invite/scaler">
+
   <p align="center">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19529592/264921732-43dc32eb-31ae-46b7-a9cd-9c681974bc71.png" height=250 width=250 />
   </p>
-</a>
+
 
 Create a new forum post in the forum channel ##open-source-sep with the title as - `challenger-<yourname>-<DiscordID>`
 
 
-<a href="https://discord.com/invite/scaler">
+
   <p align="center">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19529592/264921756-73b399b6-357b-404e-9608-19a60ee5a7cf.png" height=250 width=250/>
   </p>
-</a>
+
 
 For example, if your name is John Doe and your Discord ID is `john#1234`, your post title should be `challenger-john-doe-john#1234`
 
