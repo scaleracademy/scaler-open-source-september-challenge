@@ -8,10 +8,6 @@ name: Add your name here
 github_user_name: add your github username here
 discord_id: add your discord id here
 ```
-
-
-
-
 name:Sahil Ahmed
 github_user_name_: sahilAhmedcse45
 discord_id: sahilahmed45
