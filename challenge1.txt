@@ -1,0 +1,3 @@
+name: Sourashis Sarkar
+github_user_name: arthurW1935
+discord_id: sarkar.arthur
