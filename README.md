@@ -78,7 +78,7 @@ The task will be shared at  <b>11 AM IST </b> every day. You will have 24 hours 
 
 Once you have solved the task, post a screenshot/link of the completion on your individual forum post created in the pre-requisites section with a text stating: `I have completed the task for #<day>`.
 
-We recommend that you celebrate your successful completition of the task by sharing it with the community.
+We recommend that you celebrate your successful completion of the task by sharing it with the community.
 
 Here's a sample post: 
 
