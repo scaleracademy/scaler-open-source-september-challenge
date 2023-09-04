@@ -4,7 +4,7 @@ Welcome to the fourth challenge for the Open Source September Challenge.
 Today's challenge is to cover how to Update the Forked Repo From the Original Repo. 
 
 
-The main repository has been updated since the last fork that all of you created. The goal is to update the forked repository with the changes made in the original repository. This can be done with the git command of ``git remote add upstream``
+The main repository has been updated since the last fork that all of you created. The goal is to update the forked repository with the changes made in the original repository. This can be done with the git command of ``git remote add upstream``.
 
 Resources: 
 1. Learn about syncing a fork [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
