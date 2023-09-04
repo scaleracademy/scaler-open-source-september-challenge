@@ -15,5 +15,5 @@ Task:
 1. Create a fork of this repository 
 2. Clone the forked project locally in your system using the ``git clone`` command 
 3. Add a new comment to the GitHub issue you created in the [first task](https://github.com/scaleracademy/scaler-open-source-september-challenge/blob/main/Challenges/challenge1.md). The comment should have the following: 
-- URL of your forked repository
+- URL of your forked repository https://github.com/Parthmagicss/scaler-open-source-september-challenge
 - Screenshot of the cloned repo in your system/PC
