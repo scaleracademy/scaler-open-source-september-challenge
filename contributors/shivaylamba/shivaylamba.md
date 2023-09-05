@@ -1,4 +1,4 @@
 ---
-name: Shivay Lamba
-github_user: shivaylamba
+name: Prakhar Bhatnagar
+github_user: prakhar__20
 ---
