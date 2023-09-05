@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3de09e8-f5fb-4f6e-9432-040502ec6f5e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/FountIt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/FountIt/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/FountIt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/FountIt/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/FountIt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/FountIt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/FountIt/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/FountIt/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/FountIt/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/SummarizeMe/.idea/SummarizeMe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CURRENT PROJECTS/SummarizeMe/.idea/SummarizeMe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/SummarizeMe/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CURRENT PROJECTS/SummarizeMe/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/SummarizeMe/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CURRENT PROJECTS/SummarizeMe/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/SummarizeMe/SummarizeMe" beforeDir="false" afterPath="$PROJECT_DIR$/../CURRENT PROJECTS/SummarizeMe/SummarizeMe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/TEXT EDITOR/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/TEXT EDITOR/FEATURES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/TEXT EDITOR/TRASH/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/TEXT EDITOR/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CURRENT PROJECTS/TEXT EDITOR/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA-COLLEGE/COLLEGE" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA-COLLEGE/COLLEGE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA-COLLEGE/LEARNING DSA" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA-COLLEGE/LEARNING DSA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA-COLLEGE/LEET-CODE" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA-COLLEGE/LEET-CODE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/main/java/com/mithin/demo/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/main/java/com/mithin/demo/HelloResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MARIO-GAME-ENGINE/MarioGameEngine/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PageRankAlgorithm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relevance-Analyzer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relevance-Analyzer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relevance-Analyzer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relevance-Analyzer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relevance-Analyzer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relevance-Analyzer/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relevance-Analyzer/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relevance-Analyzer/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relevance-Analyzer/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SNAKE/snake/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SNAKE/snake/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SNAKE/snake/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SNAKE/snake/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TRASH/bookShopManagementSystem/bookShopManagementSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TRASH/pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movieist/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movieist/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movieist/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movieist/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movieist/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movieist/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movieist/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movieist/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movieist/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opensource/My-Personal-portfolio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opensource/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Uv4o2EBWJ2HozW8Y4FLr25ZqB6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3de09e8-f5fb-4f6e-9432-040502ec6f5e" name="Changes" comment="" />
+      <created>1693806894093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693806894093</updated>
+    </task>
+    <servers />
+  </component>
+</project>
