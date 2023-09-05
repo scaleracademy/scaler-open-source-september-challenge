@@ -1,4 +1,4 @@
 ---
-name: Nivas Reddy Nalla
-github_user: Niivas
+Name: Nivas Reddy Nalla
+Github_user: Niivas
 ---
