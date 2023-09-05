@@ -42,3 +42,8 @@ github_user_name: YOUR-GITHUB-USERNAME
 ---
 ```
 6. Submit your Pull Request on the main challenge repository.
+
+
+
+### Note
+You should also sync your fork on GitHub. After you have synced your local forked repository with the latest changes from the remote main repository, you should push these changes to your fork on GitHub to ensure that your online fork is also up to date. This step is important to make sure your online repository reflects the changes from the main repository before you create a Pull Request in the current challenge. So, both your local and online forks should be in sync with the main repository.
