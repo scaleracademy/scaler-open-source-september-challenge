@@ -41,7 +41,7 @@ name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
 ---
 ```
-6. Submit your Pull Request on the main challenge repository.
+6. Submit your Pull Request on the main challenge repository: i.e. https://github.com/scaleracademy/scaler-open-source-september-challenge .
 
 
 
