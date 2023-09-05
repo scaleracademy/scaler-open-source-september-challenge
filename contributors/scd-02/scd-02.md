@@ -1,4 +1,4 @@
 ---
-name: your_name
-github_user_name: YOUR-GITHUB-USERNAME
+name: Sourav Chandra Dey
+github_user_name: scd-02
 ---
