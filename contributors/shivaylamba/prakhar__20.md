@@ -1,4 +1,4 @@
 ---
 name: Prakhar Bhatnagar
-github_user: prakhar__20
+github_user: prakharbhatnagar20
 ---
