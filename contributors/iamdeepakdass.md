@@ -1,4 +1,5 @@
 ---
-name: Deepak Daas
+name: Deepak Dass
 github_user_name: iamdeepakdass
+url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/93
 ---
