@@ -1,4 +1,4 @@
 ---
-name: HArshith Gurram
+name: Harshith Gurram
 github_user_name: HarshithSimha
 ---
