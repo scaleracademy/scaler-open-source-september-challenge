@@ -5,7 +5,7 @@ Today's goal is to update your forked repository and then create a Pull Request
 
 
 ### Pre-requisite:
-1. You should have completed [Challenge 4](https://github.com/scaleracademy/scaler-open-source-september-challenge) before starting this challenge. That means ensure your forked repository is in sync with the latest changes in the main challenge repository. Also ensure that the new branch that you created in [Challenge 2](https://github.com/scaleracademy/scaler-open-source-september-challenge/blob/main/Challenges/challenge2.md) is also in sync with the latest changes in main challenge repository. 
+1. You should have completed [Challenge 4](https://github.com/scaleracademy/scaler-open-source-september-challenge) before starting this challenge. That means ensure your forked repository is in sync with the latest changes in the main challenge repository. Also, ensure that the new branch that you created in [Challenge 3](https://github.com/scaleracademy/scaler-open-source-september-challenge/blob/main/Challenges/challenge3.md) is also in sync with the latest changes in main challenge repository. 
 
 ### Resources:
 1. Learn about creating a Pull Request [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
@@ -41,4 +41,9 @@ name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
 ---
 ```
-6. Submit your Pull Request on the main challenge repository.
+6. Submit your Pull Request on the main challenge repository: i.e. https://github.com/scaleracademy/scaler-open-source-september-challenge .
+
+
+
+### Note
+You should also sync your fork on GitHub. After you have synced your local forked repository with the latest changes from the remote main repository, you should push these changes to your fork on GitHub to ensure that your online fork is also up to date. This step is important to make sure your online repository reflects the changes from the main repository before you create a Pull Request in the current challenge. So, both your local and online forks should be in sync with the main repository.
