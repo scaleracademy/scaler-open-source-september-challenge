@@ -1,4 +1,5 @@
-echo"--
->>name:Anshika Anand
->>github_user_name:Itsanshi
->>--">Itsanshi.md
+---
+name: Anshika Anand
+github_user_name: itsAnshi
+url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/141
+---
