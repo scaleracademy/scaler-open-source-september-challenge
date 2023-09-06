@@ -1,4 +1,4 @@
 ---
-name: Lakshmi Mounika Thota
+name: Lakshmi mounika Thota
 github_user_name: thotalakshmimounika
 ---
