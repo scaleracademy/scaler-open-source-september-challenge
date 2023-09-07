@@ -2,5 +2,4 @@
 name: Shreya Dwivedi
 github_user: dwivedishrey
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/161 
-roll no:21253
 ---
