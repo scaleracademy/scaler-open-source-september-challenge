@@ -1,4 +1,0 @@
----
-name: Prateeksha
-unnecessary commits.
----
