@@ -1,0 +1,1 @@
+So I was told to add any details in this markdown file on challenge day #07
