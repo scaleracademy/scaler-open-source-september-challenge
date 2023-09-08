@@ -1,4 +1,4 @@
-# My Third Challenge
+# My 8th Challenge
 
 Hello, everyone! This is my third challenge in the Scaler September Open Challenge. I'm excited to learn and grow with each challenge.
 
