@@ -4,6 +4,7 @@ github_user_name: gokul-elumalai
 <<<<<<< HEAD
 <<<<<<< HEAD
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/263
+<<<<<<< HEAD
 your_favourite_programming_language: Python
 discord_user_name: gokul_el
 =======
@@ -11,4 +12,7 @@ discord_user_name: gokul_el
 =======
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/263
 >>>>>>> a0ec1ed (Update github issue URL - Challenge 6)
+=======
+discord_user_name: gokul_el
+>>>>>>> 75b5896 (9)
 ---
