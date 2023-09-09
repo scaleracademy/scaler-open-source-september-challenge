@@ -1,2 +1,2 @@
 Name : Yashvi
-community : Scaler
+community : Scaler DISCORD
