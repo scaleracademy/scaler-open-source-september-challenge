@@ -9,10 +9,14 @@ Task:
 1. Checkout to the branch you created in Challenge 3 in your forked repository. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 2. Create another commit by making some change in the markdown file (`<YOUR-GITHUB-USERNAME>.md`) you created in Challenge 5 and push the change to your forked repository.
 =======
 2. Create another commit by making some change in the markdown file (``your_github_username-details.md``) you created in Challenge 5 and push the change to your forked repository.
 >>>>>>> 0d09f0a (Update challenge10.md)
+=======
+2. Create another commit by making some change in the markdown file (`<YOUR-GITHUB-USERNAME>.md`) you created in Challenge 5 and push the change to your forked repository.
+>>>>>>> 5cd6100 (update #2)
 
 3. Now, we will use the concept of Git Rebase to squash the last two commits into one commit.
 
