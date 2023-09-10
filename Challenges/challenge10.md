@@ -9,6 +9,7 @@ Task:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. Checkout to the branch you created in Challenge 3 in your forked repository. 
 
 <<<<<<< HEAD
@@ -30,6 +31,9 @@ Task:
 >>>>>>> 5cd6100 (update #2)
 =======
 1. Checkout to the branch you created in Challenge 2 in your forked repository. 
+=======
+1. Checkout to the branch you created in Challenge 3 in your forked repository. 
+>>>>>>> 3c6c508 (Update challenge10.md)
 
 2. Create another commit by making some change in the markdown file (``your_github_username-details.md``) you created in Challenge 3 and push the change to your forked repository.
 >>>>>>> f581309 (add 10th challenge)
