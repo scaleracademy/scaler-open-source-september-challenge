@@ -8,7 +8,7 @@ Today's let's try to use the concept for Git Rebase you learnt but on a Pull Req
 Task: 
 1. Checkout to the branch you created in Challenge 3 in your forked repository. 
 
-2. Create another commit by making some change in the markdown file (``your_github_username-details.md``) you created in Challenge 5 and push the change to your forked repository.
+2. Create another commit by making some change in the markdown file (`<YOUR-GITHUB-USERNAME>.md`) you created in Challenge 5 and push the change to your forked repository.
 
 3. Now, we will use the concept of Git Rebase to squash the last two commits into one commit.
 
