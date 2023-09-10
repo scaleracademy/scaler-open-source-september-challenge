@@ -1,3 +1,0 @@
----
-File to be deleted.
----
