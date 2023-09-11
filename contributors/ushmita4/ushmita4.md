@@ -6,4 +6,5 @@ hometow: Jamshedpur
 ---
 ---
 College: Silicon
+School: Sacred Heart Convent School
 ---
