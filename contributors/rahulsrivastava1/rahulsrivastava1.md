@@ -5,4 +5,4 @@ url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-septemb
 your_favroite_programming_language: JavaScript
 ---
 
-Hi, this is for challenge 10
+Hi, this is for challenge 12
