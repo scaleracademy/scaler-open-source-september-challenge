@@ -5,6 +5,7 @@ github_user_name: gokul-elumalai
 <<<<<<< HEAD
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/263
 <<<<<<< HEAD
+<<<<<<< HEAD
 your_favourite_programming_language: Python
 discord_user_name: gokul_el
 =======
@@ -15,4 +16,7 @@ url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-septemb
 =======
 discord_user_name: gokul_el
 >>>>>>> 75b5896 (9)
+=======
+your_favourite_programming_language: Python
+>>>>>>> 524e387 (Add favourite prog language for Challenge 12)
 ---
