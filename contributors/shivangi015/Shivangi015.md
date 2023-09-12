@@ -1,6 +1,6 @@
 ---
-name: Shivangi Baranwal
-github_user_name: shivangi015
-url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/184
-just a change
+name: your_name
+github_user_name: YOUR-GITHUB-USERNAME
+url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge
+your_favroite_programming_language: Add your favorite programming language here
 ---
