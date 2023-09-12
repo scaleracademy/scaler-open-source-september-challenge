@@ -8,6 +8,5 @@ url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-septemb
 your_favroite_programming_language: Assembly
 changes made as per challenge 14
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/19 
-changes: Made changes as per challenge 10
-Sport : Siuuuu
+your_favroite_programming_language: Assembly
 
