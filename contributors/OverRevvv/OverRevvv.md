@@ -5,4 +5,5 @@ url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-septemb
 your_favroite_programming_language: Javascript
 ---
 
-# This is the changed that i did for challege 10 and this commmit will be squashed with previous one.
+### This is the changed that i did for challege 10 and this commmit will be squashed with previous one.
+### This is changes that i did in challenge 14 and this signed commit will be squashed with previous one.
