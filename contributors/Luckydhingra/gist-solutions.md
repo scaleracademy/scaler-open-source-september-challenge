@@ -1,0 +1,2 @@
+### Sfotware-Development topic :- [Waterfall-Model]https://gist.github.com/Luckydhingra/7f3b5b8d3f93064e4f91c3d25920c924()
+### Code Snippet :- [AC Bedroom Fix](https://gist.github.com/Luckydhingra/d7911a3e335a2fd04d16ae7e7f2727d4)
