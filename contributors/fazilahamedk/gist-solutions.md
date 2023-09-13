@@ -1,0 +1,2 @@
+- **A software development topic**: https://gist.github.com/FazilAhamedK/911f21521229dbfe6e8a0dc2d5416f49
+- **A random code snippet**: https://gist.github.com/FazilAhamedK/65a654ef88627fd1c40c7fd9f706d414 
