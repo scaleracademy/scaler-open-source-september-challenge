@@ -1,0 +1,2 @@
+Link to gist 1(oops concept) : https://gist.github.com/RoHiTMeKhE/5491dd0c00e1ddd36b17944ad668b49a 
+Link to gist 2(oops concept example in python) : https://gist.github.com/RoHiTMeKhE/ddf78ff937c2432b50915e7cb7bb17e5
