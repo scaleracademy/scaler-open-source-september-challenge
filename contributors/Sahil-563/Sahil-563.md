@@ -6,3 +6,5 @@ your_favroite_programming_language: Java
 ---
 
 This is the message which wiil be used to squash with the previous commit
+
+I am making these changes because , the commit which I will be making after these changes will be squashed with the previous commit
