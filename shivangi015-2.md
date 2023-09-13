@@ -1,1 +1,1 @@
-this is to learn about reset in git.
+A change for rebase.
