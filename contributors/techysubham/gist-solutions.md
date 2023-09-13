@@ -1,0 +1,2 @@
+### Software Development topic:- [Data Science and ML](https://gist.github.com/techysubham/11ae04d8890f5c5be2b5a14bc9036ac4)
+### Code Snippet:- [Predicting house prices using linear regression from Scikit-Learn](https://gist.github.com/techysubham/33cbae7471ac22ca370555b24dc8f16f)
