@@ -2,6 +2,7 @@
 name: Priya Pramanick
 github_user_name: priya-172
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/363
+your_favroite_programming_language: java
 ---
 
 DONIG SOME CHANGES FOR TASK 10
