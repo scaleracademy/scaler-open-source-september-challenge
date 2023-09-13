@@ -109,7 +109,7 @@ You can join our Discord and the forum channel using this link: [https://bit.ly/
 ## Resources
 
 1. Git Tutorial: [Full Git Tutorial](https://www.youtube.com/watch?v=ZtfZGVQWjew)
-2. Git and GitHub: A Practical Guide: [Full Git Tutorial](https://surajk00.hashnode.dev/getting-to-know-git-and-github-your-codes-best-friends)
+2. Git and GitHub:[Git and GitHub: A Practical Guide](https://surajk00.hashnode.dev/getting-to-know-git-and-github-your-codes-best-friends)
 3. Find good first issues to contribute to [Good First issues](https://goodfirstissue.dev/)
 4. Getting started with Github: [All you need to know about Github](https://www.youtube.com/watch?v=8WYXWs96xxc)
 5. How to contribute to Open Source: [Open Source contribution guide](https://www.youtube.com/watch?v=ABty2r3nDyU)
