@@ -1,6 +1,5 @@
-![image](https://github.com/1405Aditya/scaler-open-source-september-challenge/assets/113413023/4090b5fa-90ba-4cd5-86a9-e71af42de3c1)
+Gist of Bug Tracker
 
-Bug tracker
 This is a bug-tracking application that helps identify and track bugs in projects or systems. The project has three modules – Admin, Staff, and User.
 
 The Admin can log in to the app and enter the details of the project and staff members, view the complaints of users, assign tasks to the members, track the bug resolution status, and send messages to users. The staff can log in to the app to view bug complaints assigned to them and start working on them. If a member is unable to resolve a bug issue, they can forward the problem to another member. As for the users, they can view the progress status of their bug complaints.
