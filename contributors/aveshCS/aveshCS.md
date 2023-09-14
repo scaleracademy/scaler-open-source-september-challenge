@@ -4,4 +4,5 @@ github_user_name: aveshCS
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/375
 nickName: Avi
 your_favroite_programming_language: C++, JavaScript
+projects done: Made spotify clone, made recipe search website
 ---
