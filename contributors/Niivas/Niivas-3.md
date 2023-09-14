@@ -4,3 +4,4 @@ Dummy file - 3
 Dummy file - 4
 Dummy file - 5
 Dummy file - 6
+Dummy file - 7
