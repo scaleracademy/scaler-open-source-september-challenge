@@ -8,6 +8,7 @@ url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-septemb
 <<<<<<< HEAD
 your_favourite_programming_language: Python
 discord_user_name: gokul_el
+<<<<<<< HEAD
 =======
 >>>>>>> 256e6a0 (Challenge 5)
 =======
@@ -19,4 +20,6 @@ discord_user_name: gokul_el
 =======
 your_favourite_programming_language: Python
 >>>>>>> 524e387 (Add favourite prog language for Challenge 12)
+=======
+>>>>>>> 37b83be (Add discord user name)
 ---
