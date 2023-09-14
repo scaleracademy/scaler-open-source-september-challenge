@@ -11,8 +11,4 @@ Ensure to practice the ``git rebase`` command by creating your own local git rep
 Task: 
 1. Practice git rebase, and how to squash commit using git rebase in your local projects. For this you can make some changes in the branch and the file created in Challenge 3 & 5. 
 2. Once done, try to squash the commits in your pull request in the Challenge repository. 
-<<<<<<< HEAD
-3. Also do sign your commits, covered in the Challenge 12. 
-=======
-3. Also do sign your commits, covered in the Challenge 12. 
->>>>>>> d6ed39c (add challenge 14)
+3. Also do sign your commits, covered in the Challenge 12.
