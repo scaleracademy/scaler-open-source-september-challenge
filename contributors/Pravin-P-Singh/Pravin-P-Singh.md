@@ -7,5 +7,7 @@ changes: made some changes as a part of challenge 10 of scaler-open-source-septe
 newchanges(challenge11): Made some other changes
 your_favroite_programming_language: Javascript, C++, Python , Java, C
 # signed commit added
+newchallenge(challenge14 part 1): made some changes
+
 ---
 
