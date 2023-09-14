@@ -7,7 +7,11 @@ your_favroite_programming_language: Java, C++
 Topic: Scaler September Challenge: Day 14
 Todays practice is to try multiple commits
 <<<<<<< HEAD
+<<<<<<< HEAD
 And then try to squash the commits
 =======
 >>>>>>> Scaler September challenge: Day 14 testing squash on multiple commit[ihimanshu19]
+=======
+And then try to squash the commits
+>>>>>>> Testing squash with commit 3
 ---
