@@ -1,6 +1,6 @@
 ---
-name: Saumili Dutta
+Name: Saumili Dutta
 github_user: aumii01codes
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/278
-your_favroite_programming_language: JAVA
+your_favroite_programming_language: Java
 ---
