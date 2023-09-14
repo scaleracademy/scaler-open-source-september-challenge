@@ -1,0 +1,2 @@
+- [Software Development Topic Gist](https://gist.github.com/PMorey22/58ceabaadd14b17b568d6cf0b97882d9)
+- [Code Snippet Gist](https://gist.github.com/PMorey22/ea58ed8a7a7d3a7fcbeb03be08009f19)
