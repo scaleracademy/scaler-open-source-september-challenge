@@ -1,0 +1,243 @@
+[33mcommit 20c755e201dcc2cc4b5975e09cb031be1402d193[m[33m ([m[1;36mHEAD -> [m[1;32mMonalisa-codes-details[m[33m, [m[1;31morigin/Monalisa-codes-details[m[33m)[m
+Merge: 607db54 9b9f8bc
+Author: Monalisa Hazra <monalisahazra1234@gmail.com>
+Date:   Sun Sep 17 03:00:25 2023 +0530
+
+    Resolved conflict
+
+[33mcommit 607db54ab61dd3e4e3f09b13d5195293787b179c[m
+Merge: ba09b04 f0393c6
+Author: Monalisa Hazra <monalisahazra1234@gmail.com>
+Date:   Sun Sep 17 02:45:53 2023 +0530
+
+    Merge https://github.com/scaleracademy/scaler-open-source-september-challenge into Monalisa-codes-details
+
+[33mcommit ba09b04762bd6689ca22a139eab94f250664e170[m
+Author: Monalisa Hazra <monalisahazra1234@gmail.com>
+Date:   Sun Sep 17 02:39:15 2023 +0530
+
+    file deleted
+
+[33mcommit f0393c68de29c4ba743c0eab70cf81149650dcca[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sat Sep 16 11:32:42 2023 +0530
+
+    Create challengers-list.md
+
+[33mcommit 0dab5aacb81c3d5a1846fe73a15e1da271f1b413[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sat Sep 16 11:32:08 2023 +0530
+
+    Create challenge16.md
+
+[33mcommit 62740c3e3306f3902152aa4c28221ca8d8c9b5cd[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 15 09:49:28 2023 +0530
+
+    Update challenge15.md
+
+[33mcommit a2f3add6f0049c33161d9a56461f85b0a606f35c[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 15 09:49:15 2023 +0530
+
+    Update challenge15.md
+
+[33mcommit e6ce3d6226e4908b8087ad35fc6ae93e75987be1[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 15 09:47:37 2023 +0530
+
+    Update challenge15.md
+
+[33mcommit a92094ff970fd8537e200b3dd4a8a09eecc989b2[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 15 09:46:49 2023 +0530
+
+    Create challenge15.md
+
+[33mcommit 9b9f8bcb033612f2ce05f368911a433cd1379a58[m
+Author: Monalisa-codes <132715330+Monalisa-codes@users.noreply.github.com>
+Date:   Fri Sep 15 02:53:51 2023 +0530
+
+    Challenge 5 completed
+
+[33mcommit f53d643d1433dafe97e6b11d5457c6af520afce7[m
+Author: Monalisa Hazra <monalisahazra1234@gmail.com>
+Date:   Fri Sep 15 02:44:51 2023 +0530
+
+    #Challenge5
+
+[33mcommit ccea6090c36332172d4bcdf27a3ce5bb09bca680[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 14 11:20:25 2023 +0530
+
+    Update challenge14.md
+
+[33mcommit d6ed39ccc6657af936c459f9fcaec39e3dec1e90[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Thu Sep 14 11:19:30 2023 +0530
+
+    add challenge 14
+
+[33mcommit 732355f05fbe209c934c821b9ac2c0316986be8c[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Wed Sep 13 11:03:53 2023 +0530
+
+    challenge 13
+
+[33mcommit e76fb01ea51c9c62e84a9e27d2e98e5656a5c0a2[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Tue Sep 12 01:22:58 2023 +0530
+
+    add challenge 12
+    
+    Signed-off-by: shivaylamba <shivaylamba@gmail.com>
+
+[33mcommit b0f97aed7f3084a17cd9df04fdb6784953d9bebd[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Mon Sep 11 11:15:18 2023 +0530
+
+    11
+
+[33mcommit 5cd6100419c968c85be16bcb793bdc244fac1074[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Sun Sep 10 16:55:47 2023 +0530
+
+    update #2
+
+[33mcommit 0d09f0a36d31cdbde7b946021cff5105a0bcecca[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sun Sep 10 16:33:06 2023 +0530
+
+    Update challenge10.md
+
+[33mcommit 3c6c508e1a4fdc95c8049cc8e7e4ac38457b9d49[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sun Sep 10 16:32:08 2023 +0530
+
+    Update challenge10.md
+
+[33mcommit f58130965097ffedacdfaefc767330d0ad238b9f[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Sun Sep 10 15:15:20 2023 +0530
+
+    add 10th challenge
+
+[33mcommit 2e5ff02edb91dcae478f45334f14da830564b6c7[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Sat Sep 9 11:40:20 2023 +0530
+
+    9
+
+[33mcommit 3f15cac39f07404e5afb4386dd4778019d313e67[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Fri Sep 8 11:46:49 2023 +0530
+
+    add challenge 8
+
+[33mcommit 34d0f93ea4b8ee52f1b7398c973dedd984d38e2b[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Thu Sep 7 11:41:38 2023 +0530
+
+    challenge 7
+
+[33mcommit 42235e85614584d7eec5f4d37872db94ac9e9be1[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Wed Sep 6 11:18:01 2023 +0530
+
+    challenge 6
+
+[33mcommit 5c818a8fc1a9751edd4032435fb877378818fb61[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 13:30:02 2023 +0530
+
+    Update challenge5.md
+
+[33mcommit 4899a5895fb91c7bbf200a2e6f1d6e3dbab935cd[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 12:28:59 2023 +0530
+
+    typo fix
+
+[33mcommit a67ecd8095130724db20a8010c6d551c7e47261b[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 11:39:06 2023 +0530
+
+    updated file path
+
+[33mcommit 8570df2a9ae95d6ab28008ff382737dc587d7557[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 11:29:30 2023 +0530
+
+    Update challenge5.md
+
+[33mcommit 8b4b4d02d36d0d1f60118c440621bf91617096fd[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 11:10:40 2023 +0530
+
+    challlenge 5
+
+[33mcommit 50196bcab8cb4fe5e4b44f465fa5868eb399564a[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Mon Sep 4 11:22:09 2023 +0530
+
+    update challenge 4
+
+[33mcommit f85fcb354203cf11d539bd0f8bbab4a57322ade4[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Sun Sep 3 11:23:21 2023 +0530
+
+    3rd challenge
+
+[33mcommit 84f2c1db224816f056fa6c00784bc2676d33dba5[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sat Sep 2 11:02:57 2023 +0530
+
+    Update challenge2.md
+
+[33mcommit 702d1caa8ce0ff623570bdda3ddd8a5910397289[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Sat Sep 2 11:02:00 2023 +0530
+
+    2nd task
+
+[33mcommit c7477eac8b2dd772a06fca5fee74edc432836672[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:50:20 2023 +0530
+
+    change discord id to discord username
+
+[33mcommit 3209cc7ce7b4f0a66027336727f925aae63eb6b2[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:28:07 2023 +0530
+
+    removed href from images
+
+[33mcommit d9e289ea0c1486503a482abff62322587de695e0[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:05:02 2023 +0530
+
+    Update challenge1.md
+
+[33mcommit 14c3d0765b247d3d81f250d189e67fa8bc212c41[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:03:59 2023 +0530
+
+    added first task
+
+[33mcommit f6d271687259f41fae1d9ea24ba07a98353ed841[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 10:57:12 2023 +0530
+
+    add contributing.md
+
+[33mcommit e000f0c00be99407f1ba7e38277810d2ee5e8d3c[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 10:17:13 2023 +0530
+
+    Added event README.md
+
+[33mcommit 1e3772065beac06c4ad598a6c2f23ca19a58fa3e[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Wed Aug 30 21:51:08 2023 +0530
+
+    Initial commit
