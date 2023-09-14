@@ -6,4 +6,5 @@ Topic: Scaler September Challenge: Day 10
 your_favroite_programming_language: Java, C++
 Topic: Scaler September Challenge: Day 14
 Todays practice is to try multiple commits
+And then try to squash the commits
 ---
