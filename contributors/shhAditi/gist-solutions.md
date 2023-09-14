@@ -1,0 +1,2 @@
+software development related topic that interests you: https://gist.github.com/ShhAditi/175e7a663aae2d0d6c267c53bf4b8f2a
+small code snippet in your preferred programming language: https://gist.github.com/ShhAditi/931b57475aabcd4a81ad0efbebf405a7
