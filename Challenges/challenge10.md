@@ -21,4 +21,3 @@ Task:
 ( If it does not, then sync your forked repository with the main repository and push the changes to your forked repository.)
 
 7. Take the screenshot of the terminal when you have successfully used the git rebase to squash the commits and post it in the comment created in the first challenge (challenge 1).
-
