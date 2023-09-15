@@ -1,0 +1,2 @@
+gist writing on any software development related topic - https://gist.github.com/kishora380/371679349a0006f002da70fd0e5ccce9
+gist sharing a small code - https://gist.github.com/kishora380/a536d27ce3d76840dfda727c30695917
