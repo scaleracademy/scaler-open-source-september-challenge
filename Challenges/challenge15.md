@@ -37,7 +37,7 @@ Resolve the Merge Conflict:
 
 - Share this screenshot in the issue you created during the first challenge (Challenge 1) to demonstrate that you have successfully resolved a merge conflict.
 
-- By completing this challenge, you'll gain valuable experience in dealing with merge conflicts, a common occurrence in collaborative Git projects.
+
 
 
 ### Sample Example for merge conflict
