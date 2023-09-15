@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 name: Utkarsh Madeshiya
 github_user_name: UTKARSHMADESHIYA
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/303
@@ -61,4 +62,25 @@ github_user_name: UTKARSHMADESHIYA
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/303
 your_favroite_programming_language: PYTHON
 >>>>>>> 706eb01 (this is for challenge 12 with a gpg key for verified PR)
+=======
+name: Utkarsh Madeshiya
+github_user_name: UTKARSHMADESHIYA
+<<<<<<< HEAD
+url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/303
+your_favroite_programming_language: PYTHON and C++
+=======
+<<<<<<< HEAD
+url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/303
+your_favroite_programming_language: PYTHON and C++
+=======
+<<<<<<< HEAD
+url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/created_by/UTKARSHMADESHIYA
+# added this line because has use in challenge 10
+=======
+url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/303
+your_favroite_programming_language: PYTHON and C++
+>>>>>>> 9fb14e6906c6538e6292dca255c0aa40a96505de
+>>>>>>> f6b69bcb8e808bcd0b8258c7e379ad126a3da25c
+>>>>>>> fd2c48b6285dfd682749f7045df10d2d4359c667
+>>>>>>> 8437b8562e088ea9114ba3af6263433bb83c781e
 ---

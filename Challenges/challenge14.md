@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Welcome to Challenge 14
 
 Welcome to the 14th Challenge 
@@ -25,6 +26,11 @@ Welcome to the 12th Challenge
 
 Welcome to the 14th Challenge 
 >>>>>>> ccea609 (Update challenge14.md)
+=======
+## Welcome to Challenge 14
+
+Welcome to the 14th Challenge 
+>>>>>>> 8437b8562e088ea9114ba3af6263433bb83c781e
 
 Today's challenge is a re-practice of the 8th and 9th Challenge. 
 
@@ -39,6 +45,7 @@ Task:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 3. Also do sign your commits, covered in the Challenge 12. 
 =======
 3. Also do sign your commits, covered in the Challenge 12. 
@@ -52,3 +59,6 @@ Task:
 =======
 3. Also do sign your commits, covered in the Challenge 12. 
 >>>>>>> ccea609 (Update challenge14.md)
+=======
+3. Also do sign your commits, covered in the Challenge 12. 
+>>>>>>> 8437b8562e088ea9114ba3af6263433bb83c781e
