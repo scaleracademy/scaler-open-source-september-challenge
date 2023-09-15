@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is some content on the main branch.
-=======
-This is some content on the feature branch.
->>>>>>> feature-branch
