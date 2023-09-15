@@ -2,7 +2,7 @@
 
 Congratulations on successfully completing the 14th challenge! This marks the completion of the second milestone of the challenge.
 
-Before you proceed with the 15th challenge, ensure you are required to have completed the following tasks to successfully mark the completion of the 1st milestone: 
+Before you proceed with the 15th challenge, ensure you are required to have completed the following tasks to successfully mark the completion of the 2nd milestone: 
 
 ## Preqrequisites to mark completion of 2nd Checkpoint (Milestone):
 
