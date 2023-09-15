@@ -5,6 +5,6 @@ url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-septemb
 your_favroite_programming_language: C++
 ---
 
-#Adding some line for challenge 14
+
 
 
