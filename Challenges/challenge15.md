@@ -118,14 +118,6 @@ a. Open the example.txt file in your code editor.
 
 b. You'll see Git's conflict markers, which look like this:
 
-```
-<<<<<<< HEAD
-This is some content on the main branch.
-=======
-This is some content on the feature branch.
->>>>>>> feature-branch
-```
-
 c. Manually edit the file to decide which changes to keep. Remove the conflict markers and choose the content you want to keep. For example:
 
 ```
