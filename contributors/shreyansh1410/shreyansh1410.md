@@ -5,4 +5,6 @@ url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-septemb
 your_favroite_programming_language: C++
 
 I used to code in Java but switched to C++.
+
+Im trying to revise challenge 8 and 9
 ---
