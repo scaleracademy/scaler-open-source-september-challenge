@@ -1,0 +1,121 @@
+[33mcommit d26e96a837b82e0f2ca1a80ca3dd66a77ba5d063[m[33m ([m[1;36mHEAD -> [m[1;32mupdate-markdown-file[m[33m, [m[1;31morigin/update-markdown-file[m[33m)[m
+Author: Prachi Chhatrola <prachichhatrola009@gmail.com>
+Date:   Thu Sep 7 16:18:40 2023 +0530
+
+    Add Prachichhatrola-2.md
+
+[33mcommit b38dbe2123cb8f6b45898a473a9b5ef63593be4f[m
+Merge: ebf5cf3 42235e8
+Author: Prachi Chhatrola <prachichhatrola009@gmail.com>
+Date:   Wed Sep 6 12:46:55 2023 +0530
+
+    Merge remote-tracking branch 'upstream/main' into update-markdown-file
+    Merge remote-tracking branch 'upstream/main' into update-markdown-file
+
+[33mcommit ebf5cf376a65e269fe2bfab8b308a394349a5f2f[m
+Author: Prachi Chhatrola <prachichhatrola009@gmail.com>
+Date:   Wed Sep 6 12:42:02 2023 +0530
+
+    Update markdown file with my information
+
+[33mcommit 42235e85614584d7eec5f4d37872db94ac9e9be1[m[33m ([m[1;31mupstream/main[m[33m)[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Wed Sep 6 11:18:01 2023 +0530
+
+    challenge 6
+
+[33mcommit 5c818a8fc1a9751edd4032435fb877378818fb61[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 13:30:02 2023 +0530
+
+    Update challenge5.md
+
+[33mcommit 4899a5895fb91c7bbf200a2e6f1d6e3dbab935cd[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 12:28:59 2023 +0530
+
+    typo fix
+
+[33mcommit a67ecd8095130724db20a8010c6d551c7e47261b[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 11:39:06 2023 +0530
+
+    updated file path
+
+[33mcommit 8570df2a9ae95d6ab28008ff382737dc587d7557[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 11:29:30 2023 +0530
+
+    Update challenge5.md
+
+[33mcommit 8b4b4d02d36d0d1f60118c440621bf91617096fd[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 11:10:40 2023 +0530
+
+    challlenge 5
+
+[33mcommit 50196bcab8cb4fe5e4b44f465fa5868eb399564a[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Mon Sep 4 11:22:09 2023 +0530
+
+    update challenge 4
+
+[33mcommit f85fcb354203cf11d539bd0f8bbab4a57322ade4[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Sun Sep 3 11:23:21 2023 +0530
+
+    3rd challenge
+
+[33mcommit 84f2c1db224816f056fa6c00784bc2676d33dba5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sat Sep 2 11:02:57 2023 +0530
+
+    Update challenge2.md
+
+[33mcommit 702d1caa8ce0ff623570bdda3ddd8a5910397289[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Sat Sep 2 11:02:00 2023 +0530
+
+    2nd task
+
+[33mcommit c7477eac8b2dd772a06fca5fee74edc432836672[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:50:20 2023 +0530
+
+    change discord id to discord username
+
+[33mcommit 3209cc7ce7b4f0a66027336727f925aae63eb6b2[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:28:07 2023 +0530
+
+    removed href from images
+
+[33mcommit d9e289ea0c1486503a482abff62322587de695e0[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:05:02 2023 +0530
+
+    Update challenge1.md
+
+[33mcommit 14c3d0765b247d3d81f250d189e67fa8bc212c41[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:03:59 2023 +0530
+
+    added first task
+
+[33mcommit f6d271687259f41fae1d9ea24ba07a98353ed841[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 10:57:12 2023 +0530
+
+    add contributing.md
+
+[33mcommit e000f0c00be99407f1ba7e38277810d2ee5e8d3c[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 10:17:13 2023 +0530
+
+    Added event README.md
+
+[33mcommit 1e3772065beac06c4ad598a6c2f23ca19a58fa3e[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Wed Aug 30 21:51:08 2023 +0530
+
+    Initial commit
