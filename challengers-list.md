@@ -1,2 +1,2 @@
 # List of challengers
-1. [Shivay](https://github.com/shivaylamba)
+1. [Saumili Dutta](https://github.com/aumii01codes)
