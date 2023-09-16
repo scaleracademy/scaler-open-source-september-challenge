@@ -1,1 +1,1 @@
-practice git rebase and git squash  
+practice git rebase and git squash
