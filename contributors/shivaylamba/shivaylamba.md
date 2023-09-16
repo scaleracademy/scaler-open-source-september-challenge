@@ -1,4 +1,4 @@
 ---
-name: Shivay Lamba
-github_user: shivaylamba
+name: Amogha Y A
+github_user_name: ThatBlackFox
 ---
