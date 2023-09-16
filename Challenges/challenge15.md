@@ -46,7 +46,7 @@ Here is an example of a merge conflict:
 
 Step 1: Set Up Your Repository
 a. Create a new directory on your computer for your Git project:
-
+git
 ```
 mkdir merge-conflict-example
 cd merge-conflict-example
