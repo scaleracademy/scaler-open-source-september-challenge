@@ -35,4 +35,5 @@ jobs:
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
+          FILTER_REGEX_EXCLUDE: .*Challenges/.*    # Ignore Challenges/ markdown files
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
