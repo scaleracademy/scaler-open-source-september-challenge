@@ -37,7 +37,7 @@ contributors/shivaylamba/shivaylamba.md
 
 ```
 ---
-name: your_name
+name: your_name 
 github_user_name: YOUR-GITHUB-USERNAME
 ---
 ```
