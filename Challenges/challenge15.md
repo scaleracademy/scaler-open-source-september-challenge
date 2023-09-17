@@ -2,30 +2,13 @@
 
 Congratulations on successfully completing the 14th challenge! This marks the completion of the second milestone of the challenge.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 62740c3 (Update challenge15.md)
-Before you proceed with the 15th challenge, ensure you are required to have completed the following tasks to successfully mark the completion of the 2nd milestone: 
-
-## Preqrequisites to mark completion of 2nd Checkpoint (Milestone):
-
-1. Use the creative shared for the successful completion of the second milestone: [Second Milestone Creative](https://github-production-user-asset-6210df.s3.amazonaws.com/129844674/268165917-34df9c63-be61-4ffc-af43-264703f89f0a.jpg) to share on any social platform: LinkedIn, Twitter, Facebook, Instagram, etc. marking the completion of the second milestone.
-
-2. Fill the Google form the following Google form: [Google Form](https://forms.gle/JnzBURSEjRejEgw4A) to mark the completion of the second milestone. Note: This is a mandatory task to be eligible for the prize at the end of the challenge as it allows us to evaluate the submissions in the challenge so far.
-=======
 Before you proceed with the 15th challenge, ensure you are required to have completed the following tasks to successfully mark the completion of the 1st milestone: 
 
 ## Preqrequisites to mark completion of 2nd Checkpoint (Milestone):
 
 1. Use the creative shared for the successful completion of the second milestone: [Second Milestone Creative](https://github-production-user-asset-6210df.s3.amazonaws.com/129844674/268165917-34df9c63-be61-4ffc-af43-264703f89f0a.jpg) to share on any social platform: LinkedIn, Twitter, Facebook, Instagram, etc. marking the completion of the second milestone.
 
-<<<<<<< HEAD
 2. Fill the Google form the following Google form: [Google Form](https://forms.gle/JnzBURSEjRejEgw4A) to mark the completion of the first milestone. Note: This is a mandatory task to be eligible for the prize at the end of the challenge as it allows us to evaluate the submissions in the challenge so far.
->>>>>>> a92094f (Create challenge15.md)
-=======
-2. Fill the Google form the following Google form: [Google Form](https://forms.gle/JnzBURSEjRejEgw4A) to mark the completion of the second milestone. Note: This is a mandatory task to be eligible for the prize at the end of the challenge as it allows us to evaluate the submissions in the challenge so far.
->>>>>>> a2f3add (Update challenge15.md)
 
 
 Once you have completed the above, you can proceed with the 15th challenge.
@@ -54,15 +37,10 @@ Resolve the Merge Conflict:
 
 - Share this screenshot in the issue you created during the first challenge (Challenge 1) to demonstrate that you have successfully resolved a merge conflict.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 =======
 - By completing this challenge, you'll gain valuable experience in dealing with merge conflicts, a common occurrence in collaborative Git projects.
->>>>>>> a92094f (Create challenge15.md)
-=======
 
->>>>>>> e6ce3d6 (Update challenge15.md)
 
 
 ### Sample Example for merge conflict
@@ -135,13 +113,6 @@ a. Open the example.txt file in your code editor.
 
 b. You'll see Git's conflict markers, which look like this:
 
-```
-<<<<<<< HEAD
-This is some content on the main branch.
-=======
-This is some content on the feature branch.
->>>>>>> feature-branch
-```
 
 c. Manually edit the file to decide which changes to keep. Remove the conflict markers and choose the content you want to keep. For example:
 
