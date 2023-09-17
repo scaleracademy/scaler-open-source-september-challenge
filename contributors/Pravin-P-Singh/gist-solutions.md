@@ -1,0 +1,2 @@
+- [Software Development Topic Gist](https://gist.github.com/Pravin-P-Singh/484113f68d6beb3a1c76bb8374f8de3e)
+- [Code Snippet Gist](https://gist.github.com/Pravin-P-Singh/424503adf9999a3937092472355c79c1)

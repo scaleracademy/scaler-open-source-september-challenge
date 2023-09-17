@@ -5,11 +5,6 @@ Welcome to the 10th challenge!
 Today's let's try to use the concept for Git Rebase you learnt but on a Pull Request.
 
 
-Task: 
-1. Checkout to the branch you created in Challenge 3 in your forked repository. 
-
-2. Create another commit by making some change in the markdown file (`<YOUR-GITHUB-USERNAME>.md`) you created in Challenge 5 and push the change to your forked repository.
-
 3. Now, we will use the concept of Git Rebase to squash the last two commits into one commit.
 
 4. For this. Review the commits you've made on the branch using the git log --oneline command. You should see a number of commits on the branch. Use the interactive rebase command to squash the commits.
