@@ -1,3 +1,4 @@
 # List of challengers
 1. [Shivay](https://github.com/shivaylamba)
-1. [Anurag](https://github.com/anurag-327)
+2. [Anurag](https://github.com/anurag-327)
+3. [shivscaler](http://github.com/shivscaler)
