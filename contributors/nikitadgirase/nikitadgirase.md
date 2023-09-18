@@ -4,6 +4,7 @@ name: Nikita Girase
 github_user_name: nikitadgirase
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/312
 maked changes for task 10
 <<<<<<< HEAD
@@ -16,4 +17,8 @@ url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-septemb
 >>>>>>> f3d1d2e (Update nikitadgirase.md)
 =======
 >>>>>>> 5ee6b67 (maked changes for task 10)
+=======
+url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/312
+maked changes for task 10
+>>>>>>> 2e2b5b8a94fbb9396fea5b76322766c75fe6b992
 ---
