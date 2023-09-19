@@ -14,5 +14,5 @@ To learn more visit: [What is Git GUI](https://help.github.com/en/desktop/gettin
 - Download GitHub desktop
 - Create a new repository on GitHub
 - Add anything you want to your repo
-- Follow through all the GitHub workflow you know using the GUI (commit, branching, pulling, pushing etc)
+- Follow through all the GitHudsb workflow you know using the GUI (commit, branching, pulling, pushing etc)
 - Share a screenshot of your experience using github desktop on the issue created in Challenge 1.
