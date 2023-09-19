@@ -15,3 +15,4 @@ After push, added following line:
 Challenge 14: Revise rebase - comment 4
 After push and 2nd rebase, added following line for signed commit
 Challenge 14: Revise rebase - comment 5
+Challenge 19: Added the comment - comment 6
