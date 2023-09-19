@@ -1,3 +1,4 @@
 # List of challengers
-1. [Shivay](https://github.com/shivaylamba)
+1. [Shivay](https://github.com/shivaylamba
 2. [Sundhar](https://github.com/somasundharreddyl)
+
