@@ -1,4 +1,4 @@
 ---
-name: Shivay Lamba
-github_user: shivaylamba
+name: Shivangi Baranwal
+github_user: shivangi015
 ---
