@@ -61,7 +61,7 @@ jobs:
 
 5. Ensure the Workflow Passes:
 
-- Make sure your code file adheres to the linting rules. If there are linting errors, fix them in your code file.
+- Make sure your code file adheres(means stick to ) to the linting rules. If there are linting errors, fix them in your code file.
 
 6. Share Your Experience:
 
