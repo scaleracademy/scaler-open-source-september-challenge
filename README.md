@@ -38,7 +38,7 @@ Accept the challenge by filling out this form if you haven't already: [https://f
 
 If you haven't already, create an account on Github, and brush up on your skills in Git and Github. 
 
-### Step 3
+### Step 3 
 
 
 
@@ -65,7 +65,7 @@ You can drop a message like `I accept the challenge`.
 
 ### Step 1
 
-Head to the official [Scaler Open Source September Challenge repository](https://github.com/scaleracademy/scaler-open-source-september-challenge). Star it. 
+Head to the official [Scaler Open Source September Challenge repository](https://github.com/scaleracademy/scaler-open-source-september-challenge). Star it.  
 
 Keep track of the repository, as a new task will be added every day. 
 
