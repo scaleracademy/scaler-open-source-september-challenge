@@ -4,6 +4,8 @@ github_user_name: mrudang-vora
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/1
 modification done: challenge 10 is here and this file needs to be updated
 your_favorite_programming_language: C#
+your_hosted_github_pages_link: https://mrudang-vora.github.io/
+your_hosted_github_pages_repository_link: https://github.com/mrudang-vora/mrudang-vora.github.io
 ---
 Comments:
 Commit 1:
