@@ -4,6 +4,18 @@ Welcome to the 23rd Challenge
 
 Today we will learn how to work with GitHub pages!
 
+
+**Before you proceed with the 23rd challenge, please ensure you have completed the following tasks to successfully mark the completion of the 3rd milestone:**
+
+## Preqrequisites to mark completion of 3rd Checkpoint (Milestone):
+
+1. Use the creative shared for the successful completion of the third milestone: [Third Milestone Creative](https://github-production-user-asset-6210df.s3.amazonaws.com/19529592/269840111-65c535ce-abcb-4246-8e61-c347127eebef.jpg) to share on any social platform: LinkedIn, Twitter, Facebook, Instagram, etc. marking the completion of the second milestone.
+
+2. Fill the Google form the following Google form: [Google Form](https://forms.gle/FJNAM11ajPkhXx5N6) to mark the completion of the third milestone. Note: This is a mandatory task to be eligible for the prize at the end of the challenge as it allows us to evaluate the submissions in the challenge so far.
+
+
+Once you have completed the above, you can proceed with the 23rd challenge.
+
 #### Brief Overview
 
 GitHub pages allows GitHub users to host static websites on GitHub's server for free. To learn more visit the official [GitHub Pages site](https://pages.github.com/)
