@@ -31,7 +31,6 @@ your_hosted_github_pages_link: Add your hosted github page link here
 your_hosted_github_pages_repository_link: Add your repository link here
 ---
 ``` 
-- Add screenshots of your site to the pull request 
 
 
 ## Resources
