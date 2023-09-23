@@ -10,6 +10,7 @@ Before you proceed with the 15th challenge, ensure you are required to have comp
 
 2. Fill the Google form the following Google form: [Google Form](https://forms.gle/JnzBURSEjRejEgw4A) to mark the completion of the second milestone. Note: This is a mandatory task to be eligible for the prize at the end of the challenge as it allows us to evaluate the submissions in the challenge so far.
 
+
 Before you proceed with the 15th challenge, ensure you are required to have completed the following tasks to successfully mark the completion of the 1st milestone: 
 
 ## Preqrequisites to mark completion of 2nd Checkpoint (Milestone):
@@ -45,7 +46,9 @@ Resolve the Merge Conflict:
 
 - Share this screenshot in the issue you created during the first challenge (Challenge 1) to demonstrate that you have successfully resolved a merge conflict.
 
+
 - By completing this challenge, you'll gain valuable experience in dealing with merge conflicts, a common occurrence in collaborative Git projects.
+
 
 
 ### Sample Example for merge conflict

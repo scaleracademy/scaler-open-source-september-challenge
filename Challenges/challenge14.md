@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## Welcome to Challenge 14
 
 Welcome to the 14th Challenge 
 =======
 ## Welcome to Challenge 12
+=======
 =======
 ## Welcome to Challenge 14
 
