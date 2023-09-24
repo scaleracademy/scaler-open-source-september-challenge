@@ -1,1 +1,1 @@
-$ git log --oneline
+git rebase -i HEAD~2
