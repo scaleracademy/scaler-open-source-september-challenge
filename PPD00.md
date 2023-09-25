@@ -1,0 +1,3 @@
+name: PRIYANSHU PRAKASH
+github_user_name: PPD00
+url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/90#issue-1876934650
