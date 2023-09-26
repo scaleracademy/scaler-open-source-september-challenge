@@ -9,7 +9,7 @@ Today we will learn how to work with GitHub pages!
 
 ## Preqrequisites to mark completion of 3rd Checkpoint (Milestone):
 
-1. Use the creative shared for the successful completion of the third milestone: [Third Milestone Creative](https://github-production-user-asset-6210df.s3.amazonaws.com/19529592/269840111-65c535ce-abcb-4246-8e61-c347127eebef.jpg) to share on any social platform: LinkedIn, Twitter, Facebook, Instagram, etc. marking the completion of the second milestone.
+1. Use the creative shared for the successful completion of the third milestone: [Third Milestone Creative](https://github-production-user-asset-6210df.s3.amazonaws.com/19529592/269840111-65c535ce-abcb-4246-8e61-c347127eebef.jpg) to share on any social platform: LinkedIn, Twitter, Facebook, Instagram, etc. marking the completion of the third milestone.
 
 2. Fill the Google form the following Google form: [Google Form](https://forms.gle/FJNAM11ajPkhXx5N6) to mark the completion of the third milestone. Note: This is a mandatory task to be eligible for the prize at the end of the challenge as it allows us to evaluate the submissions in the challenge so far.
 
