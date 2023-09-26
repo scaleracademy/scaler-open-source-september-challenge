@@ -3,9 +3,9 @@
 Welcome to the 26th Challenge 
 
 
-First of all, in order to continue with the entire open source wave, we are organizing a hackathon: Scaler OpenQuest hackathon: https://www.scaler.com/event/scaler-openquest-hackathon/, our recommendation is to participate in it.
+First of all, in order to continue with the entire open source wave, we are organizing an open source hackathon: Scaler OpenQuest hackathon: https://www.scaler.com/event/scaler-openquest-hackathon/, our recommendation is to participate in it.
 
-You can participate in teams or individually. But we highly recommend participating in teams. Even if you don't know a lot of tech stack, we will still recommend to participate, learn some tech stack and then participate. 
+You can participate in teams or individually. But we highly recommend participating in teams. Even if you don't know a lot of tech stack, we will still recommend to participate, learn some tech stack and then participate. You will take part in this and build open source projects. 
 
 Contributions to the hackathon can be counted towards Hacktoberfest as well. 
 
