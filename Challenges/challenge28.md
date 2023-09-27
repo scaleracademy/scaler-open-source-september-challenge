@@ -24,14 +24,12 @@ So today's task is:
 This is a continuation of the 25th Challenge: https://github.com/scaleracademy/scaler-open-source-september-challenge/blob/main/Challenges/challenge25.md
 
 So continue to look out for open source issues, and contribute. 
-
+   
 Task: 
-At the end of the day, comment on the issue created in previous challenges with the update you have made in today's challenge. Whether you are still looking for issues or you may have found one, requested for yourself to get assigned to it and started working on it. Or you are struggling to understand what to do. Just update on the issue and continue to explore. Open source doesn't come easy. It will take time and you have to be patient. So just update on where you are on your journey of contributing to open source projects! 
-
 If you have already made any contributions do share those with others in the Discord, or even try to create open source projects with collaboration with others. 
 
 
-Task: 
+### Task: 
 Also registrations for Hacktoberfest start today, so do register for it.
 
 Task:
