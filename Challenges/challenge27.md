@@ -30,12 +30,11 @@ Pre-requisite:
 Create a new Github Repository (it can be named anything you like) 
 Fork and Clone the Repository:
 
-Fork a sample Git repository (e.g., [link to a sample repository]) to your GitHub account.
-Clone the forked repository to your local development environment using git clone.
+Clone this repository repository to your local development environment using git clone.
 
 
 Steps: 
-1. In this local forked repository
+1. In this local cloned repository
 2. Create two branches: branchA and branchB.
 3. Make several commits on branchA with different changes.
 4. Select specific commits from branchA and apply them to branchB using the git cherry-pick command.
