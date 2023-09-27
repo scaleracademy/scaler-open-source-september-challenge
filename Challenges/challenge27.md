@@ -28,7 +28,7 @@ Task:
 
 Pre-requisite: 
 Create a new Github Repository (it can be named anything you like) 
-Fork and Clone the Repository:
+Clone the Repository locally:
 
 Clone this repository repository to your local development environment using git clone.
 
