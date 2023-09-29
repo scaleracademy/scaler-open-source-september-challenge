@@ -1,4 +1,4 @@
 ---
-name: Shivay Lamba
-github_user: shivaylamba
+name: Satish Rathod
+github_user: satish-rathod
 ---
