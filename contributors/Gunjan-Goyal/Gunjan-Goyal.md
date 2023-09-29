@@ -8,4 +8,5 @@ Making changes for challenge 10. understanding git rebase more deeply
 Changes for challenge 11, experimenting with git stash
 favorite programming language : c++, python
 
+Changes for challenge 14, practicing squashing and rebasing in different branches' file
 ---
