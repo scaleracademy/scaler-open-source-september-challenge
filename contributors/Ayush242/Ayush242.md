@@ -1,6 +1,6 @@
 ---
-name: Ayush242
-github_user: Ayush242
-url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/1080
-new commit for rebasing
+name: your_name
+github_user_name: YOUR-GITHUB-USERNAME
+url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge
+your_favroite_programming_language: Add your favorite programming language here
 ---
