@@ -1,4 +1,3 @@
-
 ## Welcome to Challenge 14
 
 Welcome to the 14th Challenge 
