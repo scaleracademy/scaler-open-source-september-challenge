@@ -1,5 +1,4 @@
 ## Welcome to Challenge 3
-
 Welcome to the third challenge! 
 This challenge's focus is on creating a new branch in your forked clone repository 
 
