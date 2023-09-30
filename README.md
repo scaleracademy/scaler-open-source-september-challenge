@@ -9,17 +9,17 @@
 ## What is the Scaler Open Source September Challenge?
 
 Every day throughout September, for those who have enrolled, we will share one task. 
-Participants will need to use their knowledge of Git and Github for each task, and the difficulty level of the tasks will rise daily.
+Participants will need to use their knowledge of Git and GitHub for each task, and the difficulty level of the tasks will rise daily.
 
 The primary objective? To help the community become better at contributing to open source and building projects.
 
 ## Learning Outcomes
-1. Learn how to contribute to open source projects. Learn the basics of creating issues, pull requests, Git and Github
+1. Learn how to contribute to open-source projects. Learn the basics of creating issues, pull requests, Git, and GitHub
 2. Celebrate with new rewards every time you reach a milestone!
 
 ## How to participate?
 
-## Prequisite Steps: 
+## Prerequisite Steps: 
 
 ### Step 1
 
@@ -38,7 +38,7 @@ Accept the challenge by filling out this form if you haven't already: [https://f
 
 If you haven't already, create an account on Github, and brush up on your skills in Git and Github. 
 
-### Step 3
+### Step 3 
 
 
 
@@ -65,7 +65,7 @@ You can drop a message like `I accept the challenge`.
 
 ### Step 1
 
-Head to the official [Scaler Open Source September Challenge repository](https://github.com/scaleracademy/scaler-open-source-september-challenge). Star it. 
+Head to the official [Scaler Open Source September Challenge repository](https://github.com/scaleracademy/scaler-open-source-september-challenge). Star it.  
 
 Keep track of the repository, as a new task will be added every day. 
 
@@ -78,7 +78,7 @@ The task will be shared at  <b>11 AM IST </b> every day. You will have 24 hours 
 
 Once you have solved the task, post a screenshot/link of the completion on your individual forum post created in the pre-requisites section with a text stating: `I have completed the task for #<day>`.
 
-We recommend that you celebrate your successful completition of the task by sharing it with the community.
+We recommend that you celebrate your successful completion of the task by sharing it with the community.
 
 Here's a sample post: 
 
@@ -96,7 +96,7 @@ And then share your social media post on the individual forum post.
 
 ## What will you gain?
 
- - Contribute to open-source projects 
+ - Contribute to open-source projects
  - Basics of Git & Github like push & pull requests
  - You earn 2000 Scaler Tokens on a 100% participation rate, so don’t lose the streak!
 
@@ -106,10 +106,10 @@ We have a dedicated channel #help-desk-open-source-september-challenge (https://
 
 You can join our Discord and the forum channel using this link: [https://bit.ly/OpenSourceSep_](https://bit.ly/OpenSourceSep_).
 
-
 ## Resources
 
 1. Git Tutorial: [Full Git Tutorial](https://www.youtube.com/watch?v=ZtfZGVQWjew)
-2. Find good first issues to contribute to: [Good First issues](https://goodfirstissue.dev/)
-3. Getting started with Github: [All you need to know about Github](https://www.youtube.com/watch?v=8WYXWs96xxc)
-4. How to contribute to Open Source: [Open Source contribution guide](https://www.youtube.com/watch?v=ABty2r3nDyU)
+2. Git and GitHub:[Git and GitHub: A Practical Guide](https://surajk00.hashnode.dev/getting-to-know-git-and-github-your-codes-best-friends)
+3. Find good first issues to contribute to [Good First issues](https://goodfirstissue.dev/)
+4. Getting started with Github: [All you need to know about Github](https://www.youtube.com/watch?v=8WYXWs96xxc)
+5. How to contribute to Open Source: [Open Source contribution guide](https://www.youtube.com/watch?v=ABty2r3nDyU)
