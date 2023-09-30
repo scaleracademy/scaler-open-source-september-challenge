@@ -1,12 +1,10 @@
 name: Lint Code Base
-
 on:
   push:
     branches-ignore: [master, main]
     # Remove the line above to run when pushing to master
   pull_request:
-    #Run it on details branch only
-    branches: "*detail*"
+    branches: "*detail*" # Run it on details branch only
 
 jobs:
   build:
@@ -36,6 +34,5 @@ jobs:
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
-          # Ignore Challenges/ directory of markdown files
-          FILTER_REGEX_EXCLUDE: .*Challenges/.*
+          FILTER_REGEX_EXCLUDE: .*Challenges/.* # Ignore Challenges/ markdown files
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

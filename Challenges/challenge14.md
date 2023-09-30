@@ -2,7 +2,7 @@
 
 Welcome to the 14th Challenge 
 
-Today's challenge is a re-practice of the 8th and 9th Challenge. 
+Today's challenge is a re-practice of the 8th and 9th Challenge.
 
 So focus for this challenge will be to practice the ``git rebase`` command.
 
