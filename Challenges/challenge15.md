@@ -110,13 +110,7 @@ a. Open the example.txt file in your code editor.
 
 b. You'll see Git's conflict markers, which look like this:
 
-```
-<<<<<<< HEAD
-This is some content on the main branch.
-=======
-This is some content on the feature branch.
->>>>>>> feature-branch
-```
+
 
 c. Manually edit the file to decide which changes to keep. Remove the conflict markers and choose the content you want to keep. For example:
 
@@ -144,6 +138,38 @@ git commit -m "Resolve merge conflict"
 
 Now, you've successfully created a scenario for a merge conflict, resolved it, and committed the changes. You can use these steps as a practical exercise to understand how merge conflicts work in Git.
 
+
+
+
+
+
+
+
+c. Manually edit the file to decide which changes to keep. Remove the conflict markers and choose the content you want to keep. For example:
+
+```
+This is some content on the main branch.
+
+This is some additional content on the feature branch.
+```
+
+d. Save the file.
+
+
+Step 5: Commit the Resolved Merge Conflict
+a. Stage the resolved file:
+
+```
+git add example.txt
+```
+
+b. Commit the changes:
+
+```
+git commit -m "Resolve merge conflict"
+```
+
+Now, you've successfully created a scenario for a merge conflict, resolved it, and committed the changes. You can use these steps as a practical exercise to understand how merge conflicts work in Git.
 
 
 
