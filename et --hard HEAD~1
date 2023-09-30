@@ -1,0 +1,174 @@
+[33mcommit 09e009c52116d50b45a24678f7dce82b061ccba4[m[33m ([m[1;36mHEAD -> [m[1;32mReckyVivek-details[m[33m, [m[1;31morigin/ReckyVivek-details[m[33m)[m
+Merge: f41af24 8147cfd
+Author: Vivek Kumar Dhoke <ravishankar20041973@gmail.com>
+Date:   Thu Sep 7 16:34:01 2023 +0530
+
+    Merge branch 'ReckyVivek-details' of https://github.com/ReckyVivek/scaler-open-source-september-challenge into ReckyVivek-details
+
+[33mcommit f41af24062d7a591c1e618a2f4b6936e995814f9[m
+Author: Vivek Kumar Dhoke <ravishankar20041973@gmail.com>
+Date:   Thu Sep 7 16:33:01 2023 +0530
+
+    Challenge-7
+
+[33mcommit 18ad9028dbb913bc3d3587d289c5f7f10be73bdd[m
+Merge: a6a12b5 34d0f93
+Author: Vivek Kumar Dhoke <ravishankar20041973@gmail.com>
+Date:   Thu Sep 7 16:20:38 2023 +0530
+
+    Merge remote-tracking branch 'upstream/main' into ReckyVivek-details
+
+[33mcommit 8147cfd2fb275f6117baf297963a29f5d06778d6[m
+Merge: a6a12b5 34d0f93
+Author: Vivek Kumar Dhoke <96934896+ReckyVivek@users.noreply.github.com>
+Date:   Thu Sep 7 16:18:22 2023 +0530
+
+    Merge branch 'scaleracademy:main' into ReckyVivek-details
+
+[33mcommit 34d0f93ea4b8ee52f1b7398c973dedd984d38e2b[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Thu Sep 7 11:41:38 2023 +0530
+
+    challenge 7
+
+[33mcommit a6a12b5063d42ae5f3a3ffed5af2a76d34e93822[m
+Merge: 5a30a8c dab4f0b
+Author: Vivek Kumar Dhoke <ravishankar20041973@gmail.com>
+Date:   Wed Sep 6 18:36:07 2023 +0530
+
+    Merge branch 'ReckyVivek-details' of https://github.com/ReckyVivek/scaler-open-source-september-challenge into ReckyVivek-details
+
+[33mcommit 5a30a8cdbbc476a344f2904b5f0c00d79a9ab0de[m
+Author: Vivek Kumar Dhoke <ravishankar20041973@gmail.com>
+Date:   Wed Sep 6 18:34:38 2023 +0530
+
+    Challenge 6
+
+[33mcommit febd574a98d9cad91dc8939103661f435b80b323[m
+Merge: 82503c4 42235e8
+Author: Vivek Kumar Dhoke <ravishankar20041973@gmail.com>
+Date:   Wed Sep 6 18:26:19 2023 +0530
+
+    Merge remote-tracking branch 'upstream/main' into ReckyVivek-details
+
+[33mcommit dab4f0bba3e971a75d4dac1715f89d77ac314864[m
+Merge: 7196ca2 42235e8
+Author: Vivek Kumar Dhoke <96934896+ReckyVivek@users.noreply.github.com>
+Date:   Wed Sep 6 14:43:16 2023 +0530
+
+    Merge branch 'scaleracademy:main' into ReckyVivek-details
+
+[33mcommit 42235e85614584d7eec5f4d37872db94ac9e9be1[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Wed Sep 6 11:18:01 2023 +0530
+
+    challenge 6
+
+[33mcommit 7196ca22ddacc9a5637a19a0d76eb6ca3e6f912c[m
+Merge: 82503c4 5c818a8
+Author: Vivek Kumar Dhoke <96934896+ReckyVivek@users.noreply.github.com>
+Date:   Tue Sep 5 17:13:49 2023 +0530
+
+    Merge branch 'scaleracademy:main' into ReckyVivek-details
+
+[33mcommit 82503c40238e837e6b7b2cefdd4f5a66d3a28a0d[m
+Author: Vivek Kumar Dhoke <ravishankar20041973@gmail.com>
+Date:   Tue Sep 5 17:07:40 2023 +0530
+
+    Challenge 5
+
+[33mcommit 5c818a8fc1a9751edd4032435fb877378818fb61[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 13:30:02 2023 +0530
+
+    Update challenge5.md
+
+[33mcommit 4899a5895fb91c7bbf200a2e6f1d6e3dbab935cd[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 12:28:59 2023 +0530
+
+    typo fix
+
+[33mcommit a67ecd8095130724db20a8010c6d551c7e47261b[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 11:39:06 2023 +0530
+
+    updated file path
+
+[33mcommit 8570df2a9ae95d6ab28008ff382737dc587d7557[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 11:29:30 2023 +0530
+
+    Update challenge5.md
+
+[33mcommit 8b4b4d02d36d0d1f60118c440621bf91617096fd[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Tue Sep 5 11:10:40 2023 +0530
+
+    challlenge 5
+
+[33mcommit 50196bcab8cb4fe5e4b44f465fa5868eb399564a[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Mon Sep 4 11:22:09 2023 +0530
+
+    update challenge 4
+
+[33mcommit f85fcb354203cf11d539bd0f8bbab4a57322ade4[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Sun Sep 3 11:23:21 2023 +0530
+
+    3rd challenge
+
+[33mcommit 84f2c1db224816f056fa6c00784bc2676d33dba5[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sat Sep 2 11:02:57 2023 +0530
+
+    Update challenge2.md
+
+[33mcommit 702d1caa8ce0ff623570bdda3ddd8a5910397289[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Sat Sep 2 11:02:00 2023 +0530
+
+    2nd task
+
+[33mcommit c7477eac8b2dd772a06fca5fee74edc432836672[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:50:20 2023 +0530
+
+    change discord id to discord username
+
+[33mcommit 3209cc7ce7b4f0a66027336727f925aae63eb6b2[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:28:07 2023 +0530
+
+    removed href from images
+
+[33mcommit d9e289ea0c1486503a482abff62322587de695e0[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:05:02 2023 +0530
+
+    Update challenge1.md
+
+[33mcommit 14c3d0765b247d3d81f250d189e67fa8bc212c41[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 11:03:59 2023 +0530
+
+    added first task
+
+[33mcommit f6d271687259f41fae1d9ea24ba07a98353ed841[m
+Author: shivaylamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 10:57:12 2023 +0530
+
+    add contributing.md
+
+[33mcommit e000f0c00be99407f1ba7e38277810d2ee5e8d3c[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 1 10:17:13 2023 +0530
+
+    Added event README.md
+
+[33mcommit 1e3772065beac06c4ad598a6c2f23ca19a58fa3e[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Wed Aug 30 21:51:08 2023 +0530
+
+    Initial commit
