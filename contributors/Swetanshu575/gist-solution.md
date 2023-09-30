@@ -1,0 +1,3 @@
+gist_link_for_Sample_code_snippet_of_my_programmming_language:-https://gist.github.com/Swetanshu575/36901f2f342ca2b4e1e3bafe6b323d66
+
+gist_link_for_the_software_development:https://gist.github.com/Swetanshu575/0bb24438e02fb34b82f60c741faf193e
