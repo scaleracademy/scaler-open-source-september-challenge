@@ -8,7 +8,7 @@ your_hosted_github_pages_repository_link: https://github.com/Harit007x/Harit007x
 Arrived at Challenge 14 :
                             ---
                             1. Yes
-                            2. I learned a lot
+                            2. I learned a lot...
                             3. Excited for the Hacktoberfest 
                             ---
 ---
