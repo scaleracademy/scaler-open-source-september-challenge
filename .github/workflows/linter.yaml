@@ -5,8 +5,7 @@ on:
     branches-ignore: [master, main]
     # Remove the line above to run when pushing to master
   pull_request:
-    #Run it on details branch only
-    branches: "*detail*"
+    branches: [master, main]
 
 jobs:
   build:
@@ -36,6 +35,4 @@ jobs:
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
-          # Ignore Challenges/ directory of markdown files
-          FILTER_REGEX_EXCLUDE: .*Challenges/.*
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
