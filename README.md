@@ -1,4 +1,4 @@
-## Scaler Open Source September Challenge Year 2023
+## Scaler Open Source September Challenge for the Year 2023
 
 <a href="https://discord.com/invite/scaler">
   <p align="center">
