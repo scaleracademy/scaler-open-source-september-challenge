@@ -2,5 +2,4 @@
 name: Kavin Kumar
 github_user_name: ikavinkumar
 url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/402#issue-1878029035 
-url_of_discord_forum: https://discord.com/channels/780066247601291285/1147442120542654474
 ---
